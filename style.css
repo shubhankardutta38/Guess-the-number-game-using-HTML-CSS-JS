@@ -1,0 +1,58 @@
+
+body{
+    background: linear-gradient(to left, #db3434, #eddf12)
+}
+
+.input-box{
+    width:54px;
+    height:54px;
+    margin:60px 215px;
+    font-size:30px;
+    text-align:center;
+    color:#e41212;
+    border:3px solid rgb(0, 0, 0);
+    border-radius: 40%;
+}
+
+.guess-btn{
+    width:100px;
+    height:50px;
+    border-radius:5px;
+    background-color: #9d50bb;
+    margin:-200px 195px;
+    color:white;
+    font-size:20px;
+}
+
+.guess-btn:hover{
+    cursor:pointer;
+    opacity: 90%;
+    transition:1s;
+}
+
+.header-text1, .header-text2{
+    text-align:center;
+    font-family: Tahoma, sans-serif;
+}
+
+.header-text2{
+    margin:-20px;
+}
+
+.container{
+    width:500px;
+    height:470px;
+    background-color:white;
+    margin:0px auto;
+    border: 3px solid black;
+    border-radius:10px;
+}
+
+.text-1, .text-2, .text-3, .text-4{
+    text-align:center;
+    font-size:12px;
+    font-family: Tahoma, sans-serif;
+}
+.text-4{
+    color: #e41212;
+}
